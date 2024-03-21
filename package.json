@@ -23,7 +23,7 @@
     "jquery-minicolors": "^2.1.10",
     "jquery-serializeobject": "^1.0.0",
     "jquery-sparkline": "^2.4.0",
-    "laravel-mix": "0.*",
+    "laravel-mix": "6.*",
     "livestamp": "git+https://github.com/mattbradley/livestampjs.git#develop",
     "lodash": "^4.17.4",
     "messenger": "git+https://github.com/HubSpot/messenger.git",
